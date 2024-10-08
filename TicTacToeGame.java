@@ -1,28 +1,18 @@
 /*
- * 21 de Septiembre de 2024
- * Vanessa Reteguín
- * 375533
- * 
- * Examen primer parcial: Tic-tac-toe Game
- * 
- * Ingeniería en Computación Inteligente (ICI)
- * Semestre III
- * Grupo 2 - E
- * Languajes de Computación III
- * Juan Pedro Cardona Salas
- * 
- * Instrucciones:
- * Realizar un programa con interfáz gráfica que le permita a dos usuarios jugar
- * Gato.
- * [*] Grid 3x3
- * [*] Botones en grid (X / O)
- * [*] Botones cambian con click dando turno a jugadores (X / O)
- * [ ] Registrar quién ganó
- * [*] Botón de reiniciar + aclarar valores
- * [*] Puntaje de jugador 1 y 2
- * [ ] GUI bonita :)
+ * +----------------------------------------------------------------------------+
+ * | CARDUI WORKS v1.0.0
+ * +----------------------------------------------------------------------------+
+ * | Copyright (c) 2024 - 2024, CARDUI.COM (www.cardui.com)
+ * | Vanessa Reteguín <vanessa@reteguin.com>
+ * | Released under the MIT license
+ * | www.cardui.com/carduiframework/license/license.txt
+ * +----------------------------------------------------------------------------+
+ * | Author.......: Vanessa Retegín <vanessa@reteguin.com>
+ * | First release: September 21st, 2024
+ * | Last update..: October 8th, 2024
+ * | WhatIs.......: First Partial Exam: Tic-tac-toe Game  - Main
+ * +----------------------------------------------------------------------------+
  */
-package components;
 
 import java.awt.*;
 import java.awt.event.*;
